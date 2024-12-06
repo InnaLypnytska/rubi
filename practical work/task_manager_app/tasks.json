@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Write report",
+    "deadline": "2024 12 15",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Prepare presentation",
+    "deadline": "2024 12 20",
+    "completed": false
+  }
+]
